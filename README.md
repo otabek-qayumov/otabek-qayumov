@@ -1,74 +1,46 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=👋+Salom!+Men+Otabek;🚀+Backend+Developer;🐍+Python+%7C+Django+%7C+FastAPI;💡+Murakkab+muammolarga+oddiy+yechimlar" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 Men haqimda
-
-Backend tizimlar va yuqori yuklamali API'lar ustida ishlayman.  
-Asosiy e’tiborim: **tezkor, xavfsiz va kengaytiriladigan arxitektura** yaratish.  
-
-- 🔹 **Django** va **FastAPI** bilan ishlab chiqish  
-- 🔹 High-load va scalable tizimlar  
-- 🔹 Machine Learning va Deep Learning olamiga kirish  
-- 🔹 Global loyihalarda ishtirok etish  
-
----
-
-### 🛠 Texnologiyalar (Tech Stack)
+<h1 align="center">Otabek Qayumov</h1>
+<p align="center"><b>Full-stack dasturchi</b> · Sayt, mobil ilova, Telegram bot va AI yechimlar</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,redis,linux,git,github,postman,pytorch,tensorflow,aws,nginx&perline=7" />
+  <a href="https://otabek-qayumov.uz"><img src="https://img.shields.io/badge/Portfolio-otabek--qayumov.uz-111216?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://t.me/kayumovdev"><img src="https://img.shields.io/badge/Telegram-@kayumovdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.instagram.com/kayumovdev"><img src="https://img.shields.io/badge/Instagram-@kayumovdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
 
-### 📊 Statistika va Faoliyat
+G‘oyani ishlab turgan mahsulotga aylantiraman: dizayn, frontend, backend, server va do‘konga chiqarish — hammasi bitta qo‘lda. Topshirgandan keyin ham CI/CD, zaxira nusxa va monitoring bilan qo‘llab-quvvatlayman.
+
+### Tanlangan loyihalar
+
+| Loyiha | Nima | Havola |
+|---|---|---|
+| **QulaySIM** | eSIM platforma: sayt, iOS/Android ilova, backoffice, viza xizmati | [qulaysim.uz](https://qulaysim.uz) |
+| **Marketing Analytics** | Reklama, lid va sotuv tahlili uchun CRM dashboard | [demo](https://target-crm-amber.vercel.app) |
+| **Uzkar Express** | Turkiya–O‘zbekiston logistikasi: yuk, qarz va moliya hisobi | [demo](https://uzkar-front.vercel.app) |
+| **Pragmata** | Kameralar uchun AI video kuzatuv | [pragmata.uz](https://pragmata.uz) |
+| **Dental Map** | Stomatologlar xaritasi — sayt va Telegram Mini App | [dentmap.uz](https://dentmap.uz) |
+| **Exmora** | Imtihon va AI test platformasi | [exmora.uz](https://exmora.uz) |
+
+Barcha ishlar: **[otabek-qayumov.uz/loyihalar](https://otabek-qayumov.uz/loyihalar)**
+
+### Asboblar
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,threejs,python,fastapi,django,postgres,redis,flutter,docker,githubactions,cloudflare,linux&perline=14" alt="Stek">
+</p>
+
+### Faollik
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otabekqayumov762-collab/otabekqayumov762-collab/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Hissa grafigi" src="https://raw.githubusercontent.com/otabekqayumov762-collab/otabekqayumov762-collab/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otabekqayumov762-collab&theme=tokyonight&hide_border=true" width="48%" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=otabekqayumov762-collab&hide_border=true&border_radius=12&background=FFFFFF&ring=1D4ED8&fire=1D4ED8&currStreakLabel=111216&sideLabels=555A66&dates=8B909C&currStreakNum=111216&sideNums=111216&locale=uz" alt="Ketma-ket faollik">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otabekqayumov762-collab&layout=compact&hide_border=true&border_radius=12&title_color=111216&text_color=555a66&bg_color=ffffff" alt="Tillar">
 </p>
 
 ---
-
-### 📂 Tanlangan Loyihalar
-
-| Loyiha Nomi | Tavsif | Stack |
-| :--- | :--- | :--- |
-| 🤖 **BookBarber Bot** | Kitoblar savdosi va o'yin mexanikali bot | `Aiogram`, `Redis` |
-| 📰 **News Platform** | Kengaytirilgan yangiliklar portali | `Django`, `PostgreSQL` |
-| 💼 **JobFinder** | Vakansiyalar va rezyumelar agregatori | `FastAPI`, `Docker` |
-| 📅 **MyDay Planner** | Shaxsiy samaradorlik platformasi | `Django`, `Bootstrap` |
-
----
-
-### 🌱 O‘rganishda davom etmoqdaman
-
-- [ ] **Microservices** — Katta tizimlarni kichik servislar orqali boshqarish  
-- [ ] **Kubernetes** — Konteynerlarni avtomatlashtirilgan boshqarish  
-- [ ] **NLP (Natural Language Processing)** — Matnlarni tahlil qilish va AI integratsiyasi  
-
----
-
-### 🌐 Aloqa
-
-<p align="left">
-  <a href="https://t.me/khayumofff"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:otabekqayumov762@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/otabek-kayumov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### 💡 Ishlash falsafasi
-
-> "Murakkab muammolarni sodda, optimallashtirilgan va kengaytiriladigan yechimlar bilan hal qilish."  
-
-- Clean Code > Clever Code  
-- Performance va scalability birinchi o‘rinda  
-- Security — majburiy talablardan biri  
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<p align="center"><sub>Aksariyat ishlar mijozlar uchun yopiq repolarda — natijalarni portfolio saytida ko‘ring.</sub></p>
