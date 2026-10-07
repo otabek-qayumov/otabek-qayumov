@@ -38,7 +38,7 @@ Barcha ishlar: **[otabek-qayumov.uz/loyihalar](https://otabek-qayumov.uz/loyihal
 </picture>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=otabekqayumov762-collab&hide_border=true&border_radius=12&background=FFFFFF&ring=1D4ED8&fire=1D4ED8&currStreakLabel=111216&sideLabels=555A66&dates=8B909C&currStreakNum=111216&sideNums=111216&locale=uz" alt="Ketma-ket faollik">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=otabekqayumov762-collab&hide_border=true&border_radius=12&background=FFFFFF&ring=1D4ED8&fire=1D4ED8&currStreakLabel=111216&sideLabels=555A66&dates=8B909C&currStreakNum=111216&sideNums=111216" alt="Ketma-ket faollik">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otabekqayumov762-collab&layout=compact&hide_border=true&border_radius=12&title_color=111216&text_color=555a66&bg_color=ffffff" alt="Tillar">
 </p>
 
